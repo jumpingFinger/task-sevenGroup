@@ -11,5 +11,5 @@ console.log('yangyagn')//接着
 console.log('gaojiaxing');
 
 console.log('yangyagn');
-console.log('yangyagn');
+console.log('yangyagn');//再来一个
 
